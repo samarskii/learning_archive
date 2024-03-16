@@ -1,0 +1,63 @@
+Lab Exercises
+1. Set up your personal web server on your computer or get access to a web host to host your HTML files.
+2. Choose a text editor to edit your code, for example, Notepad.
+3. What is hypertext?
+4. What is a URL?
+5. What is HTML?
+6. What is CSS?
+7. What is a web server?
+8. What is the purpose of an index.html file?
+9. What is an IP address?
+10. What is the purpose of a DNS server?
+
+1.Set up your personal web server on your computer or get access to a web host to host your HTML files.
+    
+    apache2.service - The Apache HTTP Server
+     Loaded: loaded (/lib/systemd/system/apache2.service; enabled; preset: enab>
+     Active: active (running) since Sat 2024-03-16 09:47:03 CET; 1s ago
+       Docs: https://httpd.apache.org/docs/2.4/
+    Process: 11600 ExecStart=/usr/sbin/apachectl start (code=exited, status=0/S>
+   Main PID: 11604 (apache2)
+      Tasks: 55 (limit: 9332)
+     Memory: 5.3M
+        CPU: 52ms
+     CGroup: /system.slice/apache2.service
+             ├─11604 /usr/sbin/apache2 -k start
+             ├─11605 /usr/sbin/apache2 -k start
+             └─11606 /usr/sbin/apache2 -k start
+
+2. Choose a text editor to edit your code, for example, Notepad.
+
+    Visual Studio Code has been choosed. 
+
+3. What is hypertext?
+
+   This is the way how multiple pages connecting within themselfs and can be compiled in one large structure. 
+
+4. What is a URL?
+
+   Every page in WWW are acessed trough and adress called URL
+
+5. What is HTML?
+
+   This is a document format designed to be displayed in Browser and be used in World Wide Web.
+
+6. What is CSS?
+
+   This is something that are used to define styles on the webpage
+
+7. What is a web server?
+
+   Web server this is the place where are web pages stored and later can be acessed by user
+
+8. What is the purpose of an index.html file?
+
+   This file is defining main structure of the website and the first one when we acess the website
+
+9. What is an IP address?
+
+   IP adress is the special adress that identify devices(web servers) in the network 
+
+10. What is the purpose of a DNS server?
+
+   To translate or to redirect IP adresses in more Human-readable format such as names of web-sites
