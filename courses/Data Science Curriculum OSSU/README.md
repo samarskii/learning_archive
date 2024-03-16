@@ -1,1 +1,0 @@
-### So this is just a copy of finished exercises from my [Data Science OSSU learning path](https://github.com/samarskii/ossu-data-science-path) where you can read my more detailed commentary about my journey
