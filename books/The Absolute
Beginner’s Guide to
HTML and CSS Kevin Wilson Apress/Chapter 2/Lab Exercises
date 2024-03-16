@@ -1,0 +1,44 @@
+Lab Exercises
+1. Open a new text file and save it as ch02.html.
+2. Write the basic structure of an HTML document.
+3. What is an HTML tag?
+4. What is an HTML element?
+5. What’s the difference between an HTML tag and an HTML element?
+6. What is metadata?
+7. What is the <head> section for in an HTML document? What other elements can you include?
+
+1. Open a new text file and save it as ch02.html.
+
+   Done
+
+2. Write the basic structure of an HTML document.
+
+   Done
+
+3. What is an HTML tag?
+
+   Tags themselfs are elements that are used inside and HTML structure to define begining and the end of the parts of a document
+
+   CLAUDE 3 OPUS CORRECTION: HTML tags are used to define the structure and content of an HTML document. They indicate the beginning and end of elements. Tags are enclosed in angle brackets, such as <tagname> for the opening tag and </tagname> for the closing tag.
+
+4. What is an HTML element?
+
+   Elemnt it's and component that is used inside a tag. The contain all HTML code
+
+   CLAUDE 3 OPUS CORRECTION: An HTML element consists of an opening tag, content, and a closing tag. It represents a specific part or component of an HTML document. For example, <p>This is a paragraph.</p> is an HTML element.
+
+5. What’s the difference between an HTML tag and an HTML element?
+
+   HTML elements are containing HTML tags that are not visible as well as visible content
+
+   CLAUDE 3 OPUS CORRECTION: An HTML tag is the opening or closing tag used to mark the beginning and end of an element. An HTML element, on the other hand, is the complete component that includes the opening tag, content, and closing tag. In other words, tags are used to create elements.
+
+6. What is metadata?
+
+   Metadata is a data about file themself. Some data that can be used by search-engines or tell us specific informations about document.
+
+7. What is the <head> section for in an HTML document? What other elements can you include?
+
+   In the head you can include the metadata, the title, style, link and script. 
+
+   CLAUDE 3 OPUS CORRECTION: The <head> section contains metadata and other information about the HTML document. In addition to the elements you mentioned (metadata, title, style, link, and script), you can also include other elements such as <base>, <meta>, and <noscript>.
