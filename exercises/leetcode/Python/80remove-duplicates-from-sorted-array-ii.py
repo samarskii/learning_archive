@@ -5,8 +5,8 @@ class Solution(object):
         :rtype: int
         """
 
+
         
         
         
-        
-print(Solution().removeDuplicates([0,0,1,1,1,1,2,3,3]))
+print(Solution().removeDuplicates([0,0,1,1,1,1,2,3,3,4]))
